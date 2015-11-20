@@ -17,6 +17,7 @@
 * Spectacle
 * Authy
 * Google Drive
+* Microsoft Remote Desktop
 
 ## iTerm2 configuration
 * oh-my-zsh [GitHub](https://github.com/robbyrussell/oh-my-zsh)
